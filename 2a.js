@@ -1,6 +1,8 @@
-let idade = 19
-if(idade >= 19){
+let numero = 8;
 
-    console.log("pode dirigir");
-
+if(numero % 2 == 0){
+    console.log("par");
+}else{
+    console.log("impar");
+    
 }

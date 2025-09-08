@@ -1,7 +1,9 @@
-let senha = 1234
-if(senha = 1234){
+let nota = 75;
+if (nota >= 80){
+    console.log("nota A");
 
-    console.log("Acesso Permitido")
-
-
+} else if (nota >= 60){
+console.log ("nota B");
+} else {
+    console.log("nota C");
 }
